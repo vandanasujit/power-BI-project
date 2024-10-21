@@ -38,5 +38,6 @@ This project involved the development of a Power BI dashboard to analyze and vis
 * Tracked sales by item (e.g., Television, Home Theater, Cell Phone).
 * Highlighted the most popular and high-revenue generating items.
 
-  ![salesAnalysis](https://github.com/user-attachments/assets/ae011ea9-a7d5-4ca0-b167-351a43606ceb)
+![salesAnalysis](https://github.com/user-attachments/assets/ee6b3654-1b9e-4a13-94f7-480f24a9b4cd)
+
 
